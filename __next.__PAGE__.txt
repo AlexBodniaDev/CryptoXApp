@@ -3,7 +3,7 @@
 3:I[31713,["/CryptoXApp/_next/static/chunks/673f6cb1f0ea67f3.js","/CryptoXApp/_next/static/chunks/95ef42eb92bfa5ad.js"],"default"]
 6:I[97367,["/CryptoXApp/_next/static/chunks/501f4f1c6c42cd35.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-0:{"buildId":"QZZneA9_6uJZfjaGVojTu","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/CryptoXApp/_next/static/chunks/95ef42eb92bfa5ad.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"gQYz4TC7_18bEdC08uWtx","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/CryptoXApp/_next/static/chunks/95ef42eb92bfa5ad.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
 4:{}
 5:"$0:rsc:props:children:0:props:serverProvidedParams:params"
 8:null
