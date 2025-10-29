@@ -1,4 +1,4 @@
 1:"$Sreact.fragment"
 2:I[39756,["/CryptoXApp/_next/static/chunks/673f6cb1f0ea67f3.js","/CryptoXApp/_next/static/chunks/501f4f1c6c42cd35.js"],"default"]
 3:I[37457,["/CryptoXApp/_next/static/chunks/673f6cb1f0ea67f3.js","/CryptoXApp/_next/static/chunks/501f4f1c6c42cd35.js"],"default"]
-0:{"buildId":"gQYz4TC7_18bEdC08uWtx","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"moFkAfzq-gueghAI-ivpr","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
