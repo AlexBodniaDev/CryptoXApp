@@ -11,7 +11,6 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "CryptoXApp - Trade Crypto with Confidence",
   description: "Modern crypto trading platform with real-time market data",
-  generator: "v0.app",
 }
 
 export default function RootLayout({
